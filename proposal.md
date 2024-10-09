@@ -6,8 +6,8 @@ Nursing home inspections play a critical role in publicly-available facility qua
 
 In my static visualization, I hope to show how limited federal resources have hindered the inspection process in many states. I also hope to show how nursing home inspection frequency, surveyor occupancy rates, and deficiency types vary between states. Lastly, I am curious about the most common deficiency types, and how these may vary with nursing home characteristics like resident occupancy, ownership type, and insurance mix. 
 
-#### Potential Data Sources
-
+### Potential Data Sources
+-------------------------------
 **Provider Information** (14,817 rows/102 columns)
 https://data.cms.gov/provider-data/dataset/4pq5-n9py
 
@@ -28,5 +28,6 @@ Table 2: Percent of Vacant Surveyor Positions, by State, 2002 and 2022 (52 rows,
 * This table contains state level information on the percentage of vacant surveyor positions by state. Each row represents a state. 
 
 ### Questions 
+-------------------------------
 * Is the scope of my project too broad? Should I focus in on either the inspection process itself or deficiency types? 
   
