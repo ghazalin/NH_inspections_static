@@ -1,4 +1,4 @@
-# Overdue Nursing Home Inspections: Uninspected and Neglected 
+# US Nursing Homes: Uninspected and Neglected 
 ### Nadia Ghazali 
 
 Nursing home inspections play a critical role in publicly-available facility quality measures. In 1998, the Centers for Medicare and Medicaid Services released Nursing Home Compare, a 5-star rating system for every nursing home in the US. These ratings are calculated from nursing home inspections, staffing measures, and largely self-reported clinical measures. Nursing home inspections contribute the largest proportion of this rating, but there is concern over the validity of this data. Due to flatlined federal funding, state survey agencies have struggled to hire and keep enough surveyors to conduct surveys on schedule. And while CMS has provided rigid guidelines for the state inspection process, there are inconsistencies in deficiency counts between otherwise similar states.
