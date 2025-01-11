@@ -3,4 +3,4 @@
 
 I used Python and Altair to generate the images in the brief on overdue nursing home surveys below. 
 
-![]()
+![](images/visualization_screenshot.png)
